@@ -1,0 +1,626 @@
+[
+    {
+        "Title": "Inception",
+        "Year": "2010",
+        "Director": "Christopher Nolan",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "IMDB Rating": "8.8",
+        "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+    },
+    {
+        "Title": "The Dark Knight",
+        "Year": "2008",
+        "Director": "Christopher Nolan",
+        "Genre": "Action, Crime, Drama",
+        "IMDB Rating": "9.0",
+        "Plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness."
+    },
+    {
+        "Title": "Dunkirk",
+        "Year": "2017",
+        "Director": "Christopher Nolan",
+        "Genre": "Action, Drama, History",
+        "IMDB Rating": "7.8",
+        "Plot": "Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II."
+    },
+    {
+        "Title": "Pulp Fiction",
+        "Year": "1994",
+        "Director": "Quentin Tarantino",
+        "Genre": "Crime, Drama",
+        "IMDB Rating": "8.9",
+        "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+        "Title": "Django Unchained",
+        "Year": "2012",
+        "Director": "Quentin Tarantino",
+        "Genre": "Comedy, Drama, Western",
+        "IMDB Rating": "8.5",
+        "Plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi."
+    },
+    {
+        "Title": "Kill Bill: Vol. 1",
+        "Year": "2003",
+        "Director": "Quentin Tarantino",
+        "Genre": "Action, Crime, Thriller",
+        "IMDB Rating": "8.2",
+        "Plot": "After waking from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her."
+    },
+    {
+        "Title": "Inglourious Basterds",
+        "Year": "2009",
+        "Director": "Quentin Tarantino",
+        "Genre": "Adventure, Drama, War",
+        "IMDB Rating": "8.4",
+        "Plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+    },
+    {
+        "Title": "Once Upon a Time in Hollywood",
+        "Year": "2016",
+        "Director": "Quentin Tarantino",
+        "Genre": "Drama",
+        "IMDB Rating": "N/A",
+        "Plot": "N/A"
+    },
+    {
+        "Title": "Goodfellas",
+        "Year": "1990",
+        "Director": "Martin Scorsese",
+        "Genre": "Biography, Crime, Drama",
+        "IMDB Rating": "8.7",
+        "Plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito."
+    },
+    {
+        "Title": "The Wolf of Wall Street",
+        "Year": "2013",
+        "Director": "Martin Scorsese",
+        "Genre": "Biography, Comedy, Crime",
+        "IMDB Rating": "8.2",
+        "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+    },
+    {
+        "Title": "Taxi Driver",
+        "Year": "1976",
+        "Director": "Martin Scorsese",
+        "Genre": "Crime, Drama",
+        "IMDB Rating": "8.2",
+        "Plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action."
+    },
+    {
+        "Title": "The Irishman",
+        "Year": "2019",
+        "Director": "Martin Scorsese",
+        "Genre": "Biography, Crime, Drama",
+        "IMDB Rating": "7.8",
+        "Plot": "An illustration of Frank Sheeran's life, from W.W.II veteran to hit-man for the Bufalino crime family and his alleged assassination of his close friend Jimmy Hoffa."
+    },
+    {
+        "Title": "Casino",
+        "Year": "1995",
+        "Director": "Martin Scorsese",
+        "Genre": "Crime, Drama",
+        "IMDB Rating": "8.2",
+        "Plot": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite."
+    },
+    {
+        "Title": "Jurassic Park",
+        "Year": "1993",
+        "Director": "Steven Spielberg",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "IMDB Rating": "8.2",
+        "Plot": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger."
+    },
+    {
+        "Title": "Schindler's List",
+        "Year": "1993",
+        "Director": "Steven Spielberg",
+        "Genre": "Biography, Drama, History",
+        "IMDB Rating": "9.0",
+        "Plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+    },
+    {
+        "Title": "E.T. the Extra-Terrestrial",
+        "Year": "1982",
+        "Director": "Steven Spielberg",
+        "Genre": "Adventure, Family, Sci-Fi",
+        "IMDB Rating": "7.9",
+        "Plot": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet."
+    },
+    {
+        "Title": "Jaws",
+        "Year": "1975",
+        "Director": "Steven Spielberg",
+        "Genre": "Adventure, Drama, Horror",
+        "IMDB Rating": "8.1",
+        "Plot": "When a massive killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down."
+    },
+    {
+        "Title": "Indiana Jones and the Last Crusade",
+        "Year": "1989",
+        "Director": "Steven Spielberg",
+        "Genre": "Action, Adventure",
+        "IMDB Rating": "8.2",
+        "Plot": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers."
+    },
+    {
+        "Title": "Gladiator",
+        "Year": "2000",
+        "Director": "Ridley Scott",
+        "Genre": "Action, Adventure, Drama",
+        "IMDB Rating": "8.5",
+        "Plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    },
+    {
+        "Title": "Blade Runner",
+        "Year": "1982",
+        "Director": "Ridley Scott",
+        "Genre": "Action, Drama, Sci-Fi",
+        "IMDB Rating": "8.1",
+        "Plot": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator."
+    },
+    {
+        "Title": "The Martian",
+        "Year": "2015",
+        "Director": "Ridley Scott",
+        "Genre": "Adventure, Drama, Sci-Fi",
+        "IMDB Rating": "8.0",
+        "Plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue."
+    },
+    {
+        "Title": "Alien",
+        "Year": "1979",
+        "Director": "Ridley Scott",
+        "Genre": "Horror, Sci-Fi",
+        "IMDB Rating": "8.5",
+        "Plot": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform."
+    },
+    {
+        "Title": "Black Hawk Down",
+        "Year": "2001",
+        "Director": "Ridley Scott",
+        "Genre": "Action, Drama, History",
+        "IMDB Rating": "7.7",
+        "Plot": "The story of 160 elite U.S. soldiers who dropped into Mogadishu in October 1993 to capture two top lieutenants of a renegade warlord, but found themselves in a desperate battle with a large force of heavily armed Somalis."
+    },
+    {
+        "Title": "Titanic",
+        "Year": "1997",
+        "Director": "James Cameron",
+        "Genre": "Drama, Romance",
+        "IMDB Rating": "7.9",
+        "Plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
+    },
+    {
+        "Title": "Avatar",
+        "Year": "2009",
+        "Director": "James Cameron",
+        "Genre": "Action, Adventure, Fantasy",
+        "IMDB Rating": "7.9",
+        "Plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
+    },
+    {
+        "Title": "Terminator 2: Judgment Day",
+        "Year": "1991",
+        "Director": "James Cameron",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "IMDB Rating": "8.6",
+        "Plot": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son John from an even more advanced and powerful cyborg."
+    },
+    {
+        "Title": "Aliens",
+        "Year": "1986",
+        "Director": "James Cameron",
+        "Genre": "Action, Adventure, Horror",
+        "IMDB Rating": "8.4",
+        "Plot": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring."
+    },
+    {
+        "Title": "The Abyss",
+        "Year": "1989",
+        "Director": "James Cameron",
+        "Genre": "Adventure, Drama, Mystery",
+        "IMDB Rating": "7.5",
+        "Plot": "A civilian diving team is enlisted to search for a lost nuclear submarine and faces danger while encountering an alien aquatic species."
+    },
+    {
+        "Title": "Fight Club",
+        "Year": "1999",
+        "Director": "David Fincher",
+        "Genre": "Drama",
+        "IMDB Rating": "8.8",
+        "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+    },
+    {
+        "Title": "Se7en",
+        "Year": "1995",
+        "Director": "David Fincher",
+        "Genre": "Crime, Drama, Mystery",
+        "IMDB Rating": "8.6",
+        "Plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+    },
+    {
+        "Title": "Gone Girl",
+        "Year": "2014",
+        "Director": "David Fincher",
+        "Genre": "Drama, Mystery, Thriller",
+        "IMDB Rating": "8.1",
+        "Plot": "The husband of a missing woman becomes the chief suspect in her disappearance."
+    },
+    {
+        "Title": "The Social Network",
+        "Year": "2010",
+        "Director": "David Fincher",
+        "Genre": "Biography, Drama",
+        "IMDB Rating": "7.8",
+        "Plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea and by the co-founder who was later squeezed out of the business."
+    },
+    {
+        "Title": "Zodiac",
+        "Year": "2007",
+        "Director": "David Fincher",
+        "Genre": "Crime, Drama, Mystery",
+        "IMDB Rating": "7.7",
+        "Plot": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree."
+    },
+    {
+        "Title": "The Shining",
+        "Year": "1980",
+        "Director": "Stanley Kubrick",
+        "Genre": "Drama, Horror",
+        "IMDB Rating": "8.4",
+        "Plot": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence. At the same time, his psychic son sees horrifying forebodings from both the past and the future."
+    },
+    {
+        "Title": "A Clockwork Orange",
+        "Year": "1971",
+        "Director": "Stanley Kubrick",
+        "Genre": "Crime, Sci-Fi",
+        "IMDB Rating": "8.2",
+        "Plot": "Alex DeLarge and his droogs barbarize a decaying near-future."
+    },
+    {
+        "Title": "2001: A Space Odyssey",
+        "Year": "1968",
+        "Director": "Stanley Kubrick",
+        "Genre": "Adventure, Sci-Fi",
+        "IMDB Rating": "8.3",
+        "Plot": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins."
+    },
+    {
+        "Title": "Full Metal Jacket",
+        "Year": "1987",
+        "Director": "Stanley Kubrick",
+        "Genre": "Drama, War",
+        "IMDB Rating": "8.2",
+        "Plot": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue."
+    },
+    {
+        "Title": "Dr. Strangelove",
+        "Year": "2012",
+        "Director": "Stanley Kubrick",
+        "Genre": "Short, Comedy, Crime",
+        "IMDB Rating": "N/A",
+        "Plot": "Local criminal entrepreneur, known as Doc, is given a job by a local crime boss to collect some money. However, the results of said collection are not usual."
+    },
+    {
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "Director": "Peter Jackson",
+        "Genre": "Adventure, Drama, Fantasy",
+        "IMDB Rating": "8.9",
+        "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+    },
+    {
+        "Title": "The Hobbit",
+        "Year": "1977",
+        "Director": "Peter Jackson",
+        "Genre": "Animation, Adventure, Family",
+        "IMDB Rating": "6.7",
+        "Plot": "A homebody hobbit in Middle Earth gets talked into joining a quest with a group of dwarves to recover their treasure from a dragon."
+    },
+    {
+        "Title": "King Kong",
+        "Year": "2005",
+        "Director": "Peter Jackson",
+        "Genre": "Action, Adventure, Romance",
+        "IMDB Rating": "7.2",
+        "Plot": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives."
+    },
+    {
+        "Title": "The Lovely Bones",
+        "Year": "2009",
+        "Director": "Peter Jackson",
+        "Genre": "Drama, Fantasy, Thriller",
+        "IMDB Rating": "6.6",
+        "Plot": "Centers on a young girl who has been murdered and watches over her family - and her killer - from purgatory. She must weigh her desire for vengeance against her desire for her family to heal."
+    },
+    {
+        "Title": "The Frighteners",
+        "Year": "1996",
+        "Director": "Peter Jackson",
+        "Genre": "Comedy, Fantasy, Horror",
+        "IMDB Rating": "7.1",
+        "Plot": "After a tragic car accident that kills his wife, a man discovers he can communicate with the dead, and he uses that gift to con people. However, when a demonic spirit appears, he may be the only one who can stop it from killing th..."
+    },
+    {
+        "Title": "Dune",
+        "Year": "1984",
+        "Director": "Denis Villeneuve",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "IMDB Rating": "6.3",
+        "Plot": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis to free their desert world from the emperor's rule."
+    },
+    {
+        "Title": "Arrival",
+        "Year": "2016",
+        "Director": "Denis Villeneuve",
+        "Genre": "Drama, Mystery, Sci-Fi",
+        "IMDB Rating": "7.9",
+        "Plot": "Linguist Louise Banks leads a team of investigators when gigantic spaceships touch down around the world. As nations teeter on the verge of global war, Banks and her crew must find a way to communicate with the extraterrestrial vi..."
+    },
+    {
+        "Title": "Blade Runner 2049",
+        "Year": "2017",
+        "Director": "Denis Villeneuve",
+        "Genre": "Action, Drama, Mystery",
+        "IMDB Rating": "8.0",
+        "Plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years."
+    },
+    {
+        "Title": "Prisoners",
+        "Year": "2013",
+        "Director": "Denis Villeneuve",
+        "Genre": "Crime, Drama, Mystery",
+        "IMDB Rating": "8.2",
+        "Plot": "Keller Dover is facing every parent's worst nightmare. His six-year-old daughter, Anna, is missing, together with her friend, Joy, and as minutes turn to hours, panic sets in. The only lead is an RV that had been parked on their s..."
+    },
+    {
+        "Title": "Sicario",
+        "Year": "2015",
+        "Director": "Denis Villeneuve",
+        "Genre": "Action, Crime, Drama",
+        "IMDB Rating": "7.7",
+        "Plot": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico."
+    },
+    {
+        "Title": "Gundala",
+        "Year": "2019",
+        "Director": "Joko Anwar",
+        "Genre": "Action, Adventure, Drama",
+        "IMDB Rating": "6.1",
+        "Plot": "Indonesia's preeminent comic book superhero and his alter ego Sancaka enter the cinematic universe to battle the wicked Pengkor and his diabolical squad of orphan assassins."
+    },
+    {
+        "Title": "A Copy of My Mind",
+        "Year": "2015",
+        "Director": "Joko Anwar",
+        "Genre": "Drama",
+        "IMDB Rating": "7.1",
+        "Plot": "A female cheap salon worker and a pirated DVDs subtitle maker fall in love during the turbulent presidential election in Indonesia."
+    },
+    {
+        "Title": "Kartini: Princess of Java",
+        "Year": "2017",
+        "Director": "Hanung Bramantyo",
+        "Genre": "Biography, Drama, Family",
+        "IMDB Rating": "7.6",
+        "Plot": "This movie follows the story of the Indonesian heroine named Kartini. In the early 1900s, when Indonesia was still a colony of the Netherlands, women weren't allowed to get higher education. Kartini grew up to fight for equality f..."
+    },
+    {
+        "Title": "Sang Pencerah",
+        "Year": "2010",
+        "Director": "Hanung Bramantyo",
+        "Genre": "Biography, Drama, History",
+        "IMDB Rating": "7.1",
+        "Plot": "The journey of an Indonesian national hero named K.H. Ahmad Dahlan striving for Muhammadiyah, an Islamic organization in Indonesia, and how he was rejected by the society as he was trying to fix up their perspective."
+    },
+    {
+        "Title": "Rudy Habibie",
+        "Year": "2016",
+        "Director": "Hanung Bramantyo",
+        "Genre": "Biography, Drama, Romance",
+        "IMDB Rating": "7.5",
+        "Plot": "This movie follows the story of the 3rd President of Indonesia, B.J. Habibie, young life when he was studying in the university in Germany, his struggle life as a student, and his love life before he eventually dates Ainun."
+    },
+    {
+        "Title": "Cek Toko Sebelah the Series: Ada Lawan Baru",
+        "Year": "2022",
+        "Director": "Ernest Prakasa",
+        "Genre": "Comedy, Drama",
+        "IMDB Rating": "N/A",
+        "Plot": "N/A"
+    },
+    {
+        "Title": "Imperfect",
+        "Year": "2019",
+        "Director": "Ernest Prakasa",
+        "Genre": "Comedy, Drama, Romance",
+        "IMDB Rating": "7.7",
+        "Plot": "Being born fat and has dark skins, it feels like a curse for Rara, especially when she worked at the office that has surrounded by pretty girls. Her boss wants her to lose her weight, but there is a man who loves the way she were."
+    },
+    {
+        "Title": "Ngenest",
+        "Year": "2015",
+        "Director": "Ernest Prakasa",
+        "Genre": "Comedy",
+        "IMDB Rating": "7.0",
+        "Plot": "Ernest, an Indonesia guy of Chinese descent, has to deal with his life as a Chinese-born, how he often got bullied in school, and how he decided to find a local girl to marry."
+    },
+    {
+        "Title": "Susah Sinyal",
+        "Year": "2017",
+        "Director": "Ernest Prakasa",
+        "Genre": "Comedy, Drama",
+        "IMDB Rating": "7.0",
+        "Plot": "Ellen does not keep her promise to watch Kiara's performance at the talent-show competition between high schools. Kiara is angry and goes to Sumba alone, where she can feel a glimmer of happiness."
+    },
+    {
+        "Title": "Milly",
+        "Year": "2018",
+        "Director": "Ernest Prakasa",
+        "Genre": "Short, Musical",
+        "IMDB Rating": "N/A",
+        "Plot": "N/A"
+    },
+    {
+        "Title": "Tusuk Jelangkung",
+        "Year": "2003",
+        "Director": "Rizal Mantovani",
+        "Genre": "Horror, Mystery",
+        "IMDB Rating": "5.9",
+        "Plot": "Sequel to the 2001 movie \"Jelangkung\" which will reveal the secret of Jelangkung."
+    },
+    {
+        "Title": "Wewe",
+        "Year": "2015",
+        "Director": "Rizal Mantovani",
+        "Genre": "Horror",
+        "IMDB Rating": "5.9",
+        "Plot": "A family move to a new, creepy house. While the parents fight a lot, their youngest daughter missing. It said that she was taken by a supernatural being called Wewe Gombel."
+    },
+    {
+        "Title": "Kuntilanak 3",
+        "Year": "2022",
+        "Director": "Rizal Mantovani",
+        "Genre": "Adventure, Fantasy, Horror",
+        "IMDB Rating": "4.2",
+        "Plot": "Dinda, who is considered strange by the village children because of her strength, accidentally injures Panji and Ambar. She regrets and asks Aunt Donna to register her at the Mata Hati School, so that she can learn to control her ..."
+    },
+    {
+        "Title": "5 cm",
+        "Year": "2012",
+        "Director": "Rizal Mantovani",
+        "Genre": "Adventure, Drama, Romance",
+        "IMDB Rating": "7.2",
+        "Plot": "Five best friends try to find out what true friendship is by climbing Mount Semeru, the highest peak in Java."
+    },
+    {
+        "Title": "Air Terjun Pengantin",
+        "Year": "2009",
+        "Director": "Rizal Mantovani",
+        "Genre": "Horror",
+        "IMDB Rating": "3.6",
+        "Plot": "A woman and her lover go on vacation with their friends to Pengantin Island that has Pengantin Waterfall, a waterfall that if we hope for something there, it will happen."
+    },
+    {
+        "Title": "My Stupid Boss",
+        "Year": "2016",
+        "Director": "Upi Avianto",
+        "Genre": "Comedy",
+        "IMDB Rating": "7.1",
+        "Plot": "Diana (Bunga Citra Lestari) lives in Kuala Lumpur following her husband who works there. Diana then applied to work at a company owned by Bossman. Bossman happened to be her husband's college friend while in America."
+    },
+    {
+        "Title": "Realita, Cinta, dan Rock 'n Roll",
+        "Year": "2006",
+        "Director": "Upi Avianto",
+        "Genre": "Drama, Romance",
+        "IMDB Rating": "6.8",
+        "Plot": "Ipang (Vino G. Bastian) and Nugi (Herjunot Ali) are two friends who don't like school. They love to play music and have a dream of becoming rock'n roll musicians. They often skip school to have fun in Sandra's store (Nadine Chandr..."
+    },
+    {
+        "Title": "Serigala Terakhir",
+        "Year": "2009",
+        "Director": "Upi Avianto",
+        "Genre": "Action, Crime, Drama",
+        "IMDB Rating": "6.7",
+        "Plot": "Childhood friends who have the same story and same condition made a gang with their other friends. Their gang is named Serigala Terakhir a.k.the Last Wolves. They have a dream to be the biggest mafia that can they reach."
+    },
+    {
+        "Title": "Belenggu Masjarakat",
+        "Year": "1953",
+        "Director": "Upi Avianto",
+        "Genre": "Drama",
+        "IMDB Rating": "N/A",
+        "Plot": "N/A"
+    },
+    {
+        "Title": "Fiksi.",
+        "Year": "2008",
+        "Director": "Mouly Surya",
+        "Genre": "Drama, Thriller",
+        "IMDB Rating": "7.5",
+        "Plot": "Alisha (Ladya Cheryl) never feel comfortable staying in her cool and spacious home until one day she meets Bari (Donny Alamsyah) who introduces her the meaning of love."
+    },
+    {
+        "Title": "What They Don't Talk About When They Talk About Love",
+        "Year": "2013",
+        "Director": "Mouly Surya",
+        "Genre": "Drama, Romance",
+        "IMDB Rating": "7.1",
+        "Plot": "At a high school for the visually impaired student, the students are like any other teenagers: they attend classes, pursue artistic endeavors, and fall in love regardless of physical barriers."
+    },
+    {
+        "Title": "Filosofi Kopi",
+        "Year": "2015",
+        "Director": "Angga Dwimas Sasongko",
+        "Genre": "Drama",
+        "IMDB Rating": "7.1",
+        "Plot": "A coffee shop struggling to pay their debts, while at the same time maintaining their principles."
+    },
+    {
+        "Title": "Soegija",
+        "Year": "2012",
+        "Director": "Garin Nugroho",
+        "Genre": "Biography, Drama, History",
+        "IMDB Rating": "6.3",
+        "Plot": "This movie follows the story of Dutch East Indies' (now Indonesia) first indigenous bishop, Albertus Soegijapranata SJ, from his inauguration until the end of Indonesia's independence war (1940-1949)."
+    },
+    {
+        "Title": "Laskar Pelangi",
+        "Year": "2008",
+        "Director": "Riri Riza",
+        "Genre": "Adventure, Drama, Family",
+        "IMDB Rating": "7.9",
+        "Plot": "In the 1970s, a group of 10 students struggles with poverty and develop hopes for the future in Gantong Village on the farming and tin mining island of Belitung off the east coast of Sumatra."
+    },
+    {
+        "Title": "Sokola Rimba",
+        "Year": "2013",
+        "Director": "Riri Riza",
+        "Genre": "Biography, Drama",
+        "IMDB Rating": "7.3",
+        "Plot": "Following Butet Manurung's journey from anthropologist to educator to activist as she works with the indigenous Orang Rimba people who live upstream the Makekal river in the forest of Bukit Duabelas of Jambi, Sumatera, Indonesia."
+    },
+    {
+        "Title": "Gie",
+        "Year": "2005",
+        "Director": "Riri Riza",
+        "Genre": "Biography, Drama",
+        "IMDB Rating": "7.6",
+        "Plot": "Soe Hok Gie is an activist who lived in the sixties. Set in the darkest era of Indonesian modern history, \"Gie\" is an interpretation of what happened based on his journal."
+    },
+    {
+        "Title": "Lovely Man",
+        "Year": "2011",
+        "Director": "Teddy Soeriaatmadja",
+        "Genre": "Drama",
+        "IMDB Rating": "7.6",
+        "Plot": "Cahaya (Raihaanun) travels to Jakarta, Indonesia, to search for her father and discovers that he is a prostitute for men."
+    },
+    {
+        "Title": "Something in the Way",
+        "Year": "2013",
+        "Director": "Teddy Soeriaatmadja",
+        "Genre": "Drama",
+        "IMDB Rating": "7.4",
+        "Plot": "A porn obsessed taxi driver from Jakarta falls for the beautiful young prostitute and struggles with sexual frustration and misguided piety."
+    },
+    {
+        "Title": "About A Woman",
+        "Year": "2015",
+        "Director": "Teddy Soeriaatmadja",
+        "Genre": "Drama",
+        "IMDB Rating": "7.9",
+        "Plot": "A widow living alone develops an affectionate bond with young man hired by her children to assist her at home and offer her companionship."
+    },
+    {
+        "Title": "Banyu Biru",
+        "Year": "2005",
+        "Director": "Teddy Soeriaatmadja",
+        "Genre": "Drama",
+        "IMDB Rating": "6.6",
+        "Plot": "Banyu (Tora Sudiro), a young supermarket customer service who is absorbed in his daily routine. A strange incident inspires him to hit the road and solve past family issues."
+    }
+]
